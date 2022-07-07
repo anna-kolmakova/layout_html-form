@@ -1,1 +1,10 @@
 /* styles go here */
+
+.interview_field {
+  margin-bottom: 20px;
+}
+
+.form-field:not(:last-child) {
+  margin-bottom: 10px;
+
+}
